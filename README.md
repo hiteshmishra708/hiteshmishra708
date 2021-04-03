@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiteshmishra708
+- 👋 Hi, I’m Hitesh Mishra
 - 👀 I’m interested in Coding, tech blog writing
 - 🌱 I’m currently learning DS Algo
 - 💞️ I’m looking to collaborate on Python
