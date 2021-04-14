@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hitesh Mishra
-- 👀 I’m interested in Coding, tech blog writing
-- 🌱 I’m currently learning DS Algo
+- 👀 I’m jack of all threads
+- 🌱 I’m currently focusing on DS Algo
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me +918286651155 / hiteshmishra708@gmail.com
 
