@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hitesh Mishra
 - 👀 I’m jack of all threads
-- 🌱 I’m currently focusing on DS Algo
+- 🌱 I’m currently focusing on Building Chatbot
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me +918286651155 / hiteshmishra708@gmail.com
 
