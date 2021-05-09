@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshmishra708&layout=compact)
 
+![Hitesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiteshmishra708)
+
 ![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiteshmishra708&show_icons=true&theme=radical)
 
 <!---
