@@ -3,6 +3,7 @@
 - 🌱 I’m currently focusing on Building Chatbot
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me +918286651155 / hiteshmishra708@gmail.com
+- Follow me on [Medium](https://hiteshmishra708.medium.com/) & [Linkedin](https://www.linkedin.com/in/hiteshmishra708/)
 
 ![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiteshmishra708&show_icons=true&theme=radical)
 
