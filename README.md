@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hitesh Mishra
+- 👋 Hi, I’m [Hitesh Mishra](https://www.linkedin.com/in/hiteshmishra708/)
 - 👀 I’m jack of all threads
 - 🌱 I’m currently focusing on Building Chatbot
 - 💞️ I’m looking to collaborate on Python
